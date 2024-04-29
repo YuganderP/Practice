@@ -1,0 +1,6 @@
+Recoil: 
+
+Example: The navigation tab in the linked in has many icons like 
+Network, messages , notifications
+we will store their count in state variables 
+using recoil we store them in atoms
